@@ -1,0 +1,10 @@
+step 1:
+	Should run API (backend)Node,express first.
+step 2:
+	Run Web application(React Project).
+step 3: 
+	open Netbean project and run FireAlarmServer.
+	then run FireAlarmClient and run loging page.
+
+
+we used Database as mongoDB atles.
